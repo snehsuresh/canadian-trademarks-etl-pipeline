@@ -1,0 +1,15 @@
+# python stuff
+/venv
+__pycache__/
+*.ipynb
+
+# GCP service account keys
+keys/*.json
+
+# Terraform
+.terraform*
+terraform.*
+
+# dbt
+logs/
+.user.yml
